@@ -16,5 +16,7 @@ Vai ser necessário ter as bibliotecas:
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
+
 -----------------------
+
 <p>Copyright © Syri-Yagowo</p>
