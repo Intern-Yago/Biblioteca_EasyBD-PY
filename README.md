@@ -17,6 +17,6 @@ Vai ser necessário ter as bibliotecas:
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
 
------------------------
+----
 
 <p>Copyright © Syri-Yagowo</p>
