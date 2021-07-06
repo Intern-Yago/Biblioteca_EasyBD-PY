@@ -19,4 +19,4 @@ Vai ser necessário ter as bibliotecas:
 
 ----
 
-<p>Copyright © Syri-Yagowo</p>
+<p align="center">Copyright © Syri-Yagowo</p>
